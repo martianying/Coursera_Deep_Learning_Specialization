@@ -15,7 +15,10 @@ This specializtion consists of 5 courses:
 This repository contains all the coding assignments in this specialization. But **NOTE** <code>deeplearning.ai</code> recently (April 2021) updated all their assignments to Tensorflow2.0, if you want to find assignments before the update, I highly recommand [amanchadha](https://github.com/amanchadha/coursera-deep-learning-specialization/blob/master/README.md)'s work. 
 
 ## Content
-I will put the nbviewer version of all the assignments in this section later.
+I will put more nbviewer version of the assignments in this section later.
+<br>**Course4** 
+- [W1A1: CNN step by step](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A1/Convolution_model_Step_by_Step_v1.ipynb)
+- [W2A1: CNN applications](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A2/Convolution_model_Application.ipynb)
 
 ## Credits
 I wrote all codes that are necessary for passing the assignment, and others, unless specified otherwise, are all taken from <code>deeplearning.ai</code>. 
