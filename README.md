@@ -18,9 +18,9 @@ This repository contains all the coding assignments in this specialization. But 
 I will put more nbviewer version of the assignments in this section later.
 <br>**Course4** 
 - [W1A1: CNN step by step](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A1/Convolution_model_Step_by_Step_v1.ipynb)
-- [W2A1: CNN applications](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A2/Convolution_model_Application_2021_04_29_13_12_52.ipynb)
-- [W2A2: ResNet](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W2A1/Residual_Networks.ipynb)
-
+- [W1A2: CNN applications](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A2/Convolution_model_Application_2021_04_29_13_12_52.ipynb)
+- [W2A1: ResNet](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W2A1/Residual_Networks.ipynb)
+- [W2A2: Transfer Learning with MobileNet](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W2A2/Transfer_learning_with_MobileNet_v1.ipynb)
 ## Credits
 I wrote all codes that are necessary for passing the assignment, and others, unless specified otherwise, are all taken from <code>deeplearning.ai</code>. 
 
