@@ -4,4 +4,4 @@
 <br> solution 1:
 <img src="https://github.com/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W4A2/sol_to_submit_1.png" width="500" height="300">
 <br> solution 2:
-<img src="">
+<img src="https://github.com/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W4A2/sol_to_submit_2.png" width="600" height="300">
