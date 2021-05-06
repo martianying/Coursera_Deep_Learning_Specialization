@@ -34,6 +34,6 @@ I wrote all codes that are necessary for passing the assignment, and others, unl
 <code>nbviewer</code> is a great tool to share jupyter notebooks with others, and also I find it very useful for reviewing or appreciating codes on the go. It basically renders notebooks to static websites that everyone can have access to it while keeping the original form of notebooks. To use it, [check out the nbviewer instructions](https://nbviewer.jupyter.org). Note that, you might encounter a "404" situation, if that's the case, you might be suffering a delay. Check out the [solutions to delay in nbviewer](https://github.com/jupyter/nbviewer/issues/938) to see if the proposed solution works for you (Sadly, it does not work for me :(, but patience works :P
 
 **Helpful resources**
-This specialization is sort of like a public version of <code>CS230</code> taught at Stanford. If you want to have a well-organized and tight schedule to follow or if you want to know more, I strongly recommand checking its [course website](https://cs230.stanford.edu/syllabus/) out.
+This specialization is sort of like a public version of <code>CS230</code> taught at Stanford. If you want to have a well-organized and tight schedule to follow or if you want to know more, I strongly recommand checking the [CS230 course website](https://cs230.stanford.edu/syllabus/) out.
 
 **Hope this repo could be a reference for people who get stuck in the assignment, and also allow me to appreciate how beautifully the course developers has written all these codes at any time I want.**
