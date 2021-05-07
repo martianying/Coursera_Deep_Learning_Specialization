@@ -21,7 +21,9 @@ I will put more nbviewer version of the assignments in this section later.
 - [W1A2: CNN applications](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A2/Convolution_model_Application_2021_04_29_13_12_52.ipynb)
 - [W2A1: ResNet](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W2A1/Residual_Networks.ipynb)
 - [W2A2: Transfer Learning with MobileNet](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W2A2/Transfer_learning_with_MobileNet_v1.ipynb)
+- [W3A1: Autonomous Driving: Car Detection](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W3A1/Autonomous_driving_application_Car_detection.ipynb)
 - [W4A1: Face Recognition](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W4A1/Face_Recognition.ipynb)
+- [W4A2: Art Generation: Neural Style Transfer](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W4A2/Art_Generation_with_Neural_Style_Transfer.ipynb)
 ## Credits
 I wrote all codes that are necessary for passing the assignment, and others, unless specified otherwise, are all taken from <code>deeplearning.ai</code>. 
 
