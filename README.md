@@ -1,6 +1,10 @@
 # Coursera Deep Learning Specialization
 
-## What Is it ?
+## Credits
+I wrote all codes that are necessary for passing the assignments as well as summary notes for each course, others, unless specified otherwise, are all taken from <code>deeplearning.ai</code>. 
+
+
+## What is this?
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-US&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=45435009112&device=c&keyword=online%20deep%20learning%20classes&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=415429156977&hide_mobile_promo&gclid=Cj0KCQjwsqmEBhDiARIsANV8H3YoWq1fu4SojIT8ZWJOGtco35miAQiJipnG0K3gUiJcXCwelTwERMgaAsE_EALw_wcB) is a series of 5 DL courses offered by [deeplearning.ai](https://www.deeplearning.ai) on Coursera. The instructor is [Andrew Ng](https://www.andrewng.org), who is great at explaining complicated concepts with an intuition approach. 
 
 <br>
@@ -16,6 +20,13 @@ This repository contains all the coding assignments in this specialization. But 
 
 ## Content
 I will put more nbviewer version of the assignments in this section later.
+<br>**Course1**
+- [W2A1: Python Basics with Numpy](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W2A1/Python_Basics_With_Numpy_v3a.ipynb)
+- [W2A2: Logistic Regression with a Neural Network Mindset](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W2A2/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+- [W4A1: Building Up NN Step by Step](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W4A1/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+- [W4A2: Deep NN for Image Classification](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W4A2/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
+
+
 <br>**Course4** 
 - [W1A1: CNN step by step](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A1/Convolution_model_Step_by_Step_v1.ipynb)
 - [W1A2: CNN applications](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A2/Convolution_model_Application_2021_04_29_13_12_52.ipynb)
@@ -24,8 +35,7 @@ I will put more nbviewer version of the assignments in this section later.
 - [W3A1: Autonomous Driving: Car Detection](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W3A1/Autonomous_driving_application_Car_detection.ipynb)
 - [W4A1: Face Recognition](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W4A1/Face_Recognition.ipynb)
 - [W4A2: Art Generation: Neural Style Transfer](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W4A2/Art_Generation_with_Neural_Style_Transfer.ipynb)
-## Credits
-I wrote all codes that are necessary for passing the assignment, and others, unless specified otherwise, are all taken from <code>deeplearning.ai</code>. 
+
 
 ## Others
 
