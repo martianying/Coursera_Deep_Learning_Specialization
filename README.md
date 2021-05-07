@@ -38,4 +38,6 @@ I wrote all codes that are necessary for passing the assignment, and others, unl
 **Helpful resources**
 This specialization is sort of like a public version of <code>CS230</code> taught at Stanford. If you want to have a well-organized and tight schedule to follow or if you want to know more, I strongly recommand checking the [CS230 course website](https://cs230.stanford.edu/syllabus/) out.
 
-**Hope this repo could be a reference for people who get stuck in the assignment, and also allow me to appreciate how beautifully the course developers has written all these codes at any time I want.**
+**Hope this repo could be a reference for people who get stuck in these assignments, and also allow me to appreciate how beautifully the course developers had written all these codes at any time I want.**
+
+<br>**Happy Learning!**
