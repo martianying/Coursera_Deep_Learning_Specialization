@@ -23,6 +23,7 @@ I will put more nbviewer version of the assignments in this section later.
 <br>**Course1**
 - [W2A1: Python Basics with Numpy](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W2A1/Python_Basics_With_Numpy_v3a.ipynb)
 - [W2A2: Logistic Regression with a Neural Network Mindset](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W2A2/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+- [W3A: Planar Data Classification with One Hidden Layer](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W3/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 - [W4A1: Building Up NN Step by Step](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W4A1/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 - [W4A2: Deep NN for Image Classification](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W4A2/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
