@@ -1,24 +1,15 @@
-## Course 1: Neural Networks and Deep Learning 
-## Summary Notes 
+## Neural Networks and Deep Learning Summary Notes
 
+### Notations:
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-
-
+<img src="https://render.githubusercontent.com/render/math?math=X_{n}^{\{k\} (i) [l]}" height="23" > 
+<b>k</b>th <i>batch</i>, <b>i</b>th <i>training example</i>, <b>l</b>th <i>layer</i>, <b>n</b>th feature/<i>neuron</i>/perceptron in the lth layer
 
 
 
-## Heading
+### What a single neuron does?
 
-This is an h1 heading
+### Forwardprop Vectorization
 
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
+### Backprop Vectorization
 
