@@ -1,7 +1,7 @@
 # Coursera Deep Learning Specialization
 
 ## Credits
-I wrote all codes that are necessary for passing the assignments as well as summary notes for each course, others, unless specified otherwise, are all taken from <code>deeplearning.ai</code>. 
+**I wrote all codes that are necessary for passing the assignments, others, unless specified otherwise, are all taken from <code>deeplearning.ai</code>.**
 
 
 ## What is this?
