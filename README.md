@@ -27,6 +27,16 @@ I will put more nbviewer version of the assignments in this section later.
 - [W4A1: Building Up NN Step by Step](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W4A1/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 - [W4A2: Deep NN for Image Classification](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course1/C1_W4A2/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
+<br>**Course2**
+- [W2A1: Initialization](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course2/W1A1/Initialization.ipynb)
+- [W1A2: Regularization](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course2/W1A2/Regularization.ipynb)
+- [W1A3: Gradient checking](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course2/W1A3/Gradient_Checking.ipynb)
+- [W2A1 Optimization methods](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course2/W2A1/Optimization_methods.ipynb)
+- [W3A1: Tensorflow instruction (1.0)](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course2/W3A1/Tensorflow_introduction.ipynb)
+
+
+<br>**Course3: No lab assignments** 
+
 
 <br>**Course4** 
 - [W1A1: CNN step by step](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W1A1/Convolution_model_Step_by_Step_v1.ipynb)
@@ -36,6 +46,13 @@ I will put more nbviewer version of the assignments in this section later.
 - [W3A1: Autonomous Driving: Car Detection](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W3A1/Autonomous_driving_application_Car_detection.ipynb)
 - [W4A1: Face Recognition](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W4A1/Face_Recognition.ipynb)
 - [W4A2: Art Generation: Neural Style Transfer](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course4/C4_W4A2/Art_Generation_with_Neural_Style_Transfer.ipynb)
+
+<br>**Course5** 
+- [W1A1: Building a RNN step by step](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course5/W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+- [W1A2: Character level language model](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course5/W1A2/Dinosaurus_Island_Character_level_language_model.ipynb)
+- [W1A3: LSTM](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course5/W1A3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+- [W2A1: word vectors](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course5/W2A1/Operations_on_word_vectors_v2a.ipynb)
+- [W2A2: word vectors: Emoji](https://nbviewer.jupyter.org/github/martianying/Coursera_Deep_Learning_Specialization/blob/main/Course5/W2A2/Emoji_v3a.ipynb)
 
 
 ## Others
